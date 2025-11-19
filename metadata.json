@@ -1,0 +1,8 @@
+{
+  "name": "StreamGram",
+  "description": "A next-generation social fusion of image feeds and video content, powered by Gemini AI for content understanding and creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
